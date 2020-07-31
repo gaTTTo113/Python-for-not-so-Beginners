@@ -40,8 +40,8 @@ Also can be used with lists (next article about them):
 for item in [“Car”, “Book”, “Phone”]:
 	print(item)
 ```
->Car
->Book
+>Car \
+>Book \
 >Phone
 
 `range()` function is powerful tool, returns a sequence of numbers, starting from 0 by default, and increments by 1 (by default), and stops before a specified number:
@@ -67,10 +67,10 @@ for x in range(2):
 	for y in range(2):
 		print(f'({x}, {y})')
 ```
->(0, 0)
-(0, 1)
-(1, 0)
-(1, 1)
+>(0, 0) \
+>(0, 1) \
+>(1, 0) \
+>(1, 1)
 ```
 numbers = [1, 4, 3, 2]
 for number in numbers:
@@ -79,7 +79,7 @@ for number in numbers:
 		result += 'x'
 	print(result)
 ```
->x
-xxxx
-xxx
-xx
+>x \
+>xxxx \
+>xxx \
+>xx

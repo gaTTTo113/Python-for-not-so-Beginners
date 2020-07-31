@@ -101,7 +101,7 @@ x = -2.9
 print(round(x))
 print(abs(x))
 ```
-> -3
+> -3 \
 > 2.9
   
 [*more here*](https://www.linuxtopia.org/online_books/programming_books/python_programming/python_ch04s04.html)
@@ -122,8 +122,8 @@ print(math.ceil(x))
 print(math.floor(x))
 print(math.cos(0))
 ```
-> 5
-> 4
+> 5 \
+> 4 \
 > 1.0
 
 ### Strings

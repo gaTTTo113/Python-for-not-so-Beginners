@@ -6,7 +6,7 @@ names = ['John', 'Bob', 'Mosh', 'Sarah']
 print(names)
 print(names[2])
 ```
->['John', 'Bob', 'Mosh', 'Sarah']
+>['John', 'Bob', 'Mosh', 'Sarah'] \
 >Mosh
 
 `Lists` can contain different types of objects, also you can have as many layers in list as you want:  
@@ -20,9 +20,9 @@ print(matrix[0][2])
 print(matrix[2])
 print(matrix[2][2][2])
 ```
->3
->['Bob', 100500, [7, 8, 9]]
->9
+>3 \
+>['Bob', 100500, [7, 8, 9]] \
+>9 
  
 To add object to end of `list` use `append()`:
 ```
@@ -73,7 +73,7 @@ my_list.clear()
 print(my_list)
 print(copy_of_my_list)
 ```
-> [ ]
+> [ ] \
 > [4, 3, 2, 1]
 
 We can “unpack” `list` to several variables:

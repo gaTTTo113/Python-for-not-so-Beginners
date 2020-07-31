@@ -224,9 +224,13 @@ easily
 print(some_info_for_you)
 ```
 > that's -->
+
 > how you can store
+
 > complicated strings
+
 > -''- /?|
+
 > easily
 
 ### input() function 

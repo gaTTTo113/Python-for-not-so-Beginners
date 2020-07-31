@@ -66,5 +66,5 @@ s1 = Student("Bob", 21)
 s1.greet()
 s1.enter_a_classroom()
 ```
-> Hello, my name is Bob
+> Hello, my name is Bob \
 > Good morning!

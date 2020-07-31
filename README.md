@@ -22,13 +22,13 @@ Second called ***“Advanced”***  contains some specific topics, not unnecessa
 
 ### So here you can navigate through tutorial:
 **Basics:**
-  - [1.Installing Python.](Basics/Installing_python.md)
-  - [2. Hello World, Variables, Math operators, Strings](Basics/HelloWorld.md)
-  - [3. If statement](Basics/IF.md)
-  - [4. Loops](Basics/loops.md)
-  - [5. Lists](Basics/lists.md)
-  - [6. Try statement](Basics/exept.md)
-  - [7. Classes](Basics/classes.md)
-  - [8. PEP](Basics/pep.md)
+  - 1. [Installing Python.](Basics/Installing_python.md)
+  - 2. [Hello World, Variables, Math operators, Strings](Basics/HelloWorld.md)
+  - 3. [If statement](Basics/IF.md)
+  - 4. [Loops](Basics/loops.md)
+  - 5. [Lists](Basics/lists.md)
+  - 6. [Try statement](Basics/exept.md)
+  - 7. [Classes](Basics/classes.md)
+  - 8. [PEP](Basics/pep.md)
 
 ### Good luck!

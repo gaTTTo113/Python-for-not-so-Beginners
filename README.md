@@ -30,5 +30,8 @@ Second called ***“Advanced”***  contains some specific topics, not unnecessa
   - [Try statement](Basics/exept.md)
   - [Classes](Basics/classes.md)
   - [PEP](Basics/pep.md)
+ 
+**Advanced:**
+  - [Working with filesystem.](Advanced/pathlib.md)
 
 ### Good luck!

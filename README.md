@@ -33,5 +33,6 @@ Second called ***“Advanced”***  contains some specific topics, not unnecessa
  
 **Advanced:**
   - [Working with filesystem.](Advanced/pathlib.md)
+  - [Excel automation](Advanced/excel.md)
 
 ### Good luck!

@@ -80,7 +80,6 @@ if not destination.exists():
 ```
 Directories and files can be deleted using  `.rmdir()`  and  `.unlink()`.
 
-```
-```
+-------
 
 [Here](https://pathlib.readthedocs.io/en/pep428/) you can find more of `pathlib` useful features! Good luck!

@@ -35,5 +35,6 @@ Second called ***“Advanced”***  contains some specific topics, not unnecessa
   - [Working with filesystem.](Advanced/pathlib.md)
   - [Excel automation](Advanced/excel.md)
   - [Easy JSON parsing](Advanced/json.md)
+  - [System processes](Advanced/popen.md)
 
 ### Good luck!

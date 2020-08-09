@@ -27,11 +27,8 @@ import subprocess
 
 ### Popen Constructor
 
-The underlying process creation and management in this module is handled by the `Popen` class. It offers a lot of flexibility so that developers are able to handle the less common cases not covered by the convenience functions.
-
-Execute a child program in a new process. On POSIX, the class uses `os.execvp()`-like behavior to execute the child program. On Windows, the class uses the Windows  `CreateProcess()`  function. The arguments to  `Popen` are as follows.
-
-An example of passing some arguments to an external program as a sequence is:
+To execute a child program in a new process use `Popen` class.
+Passing some arguments to an external program as a sequence:
 ```
 Popen(["ls", "-la"])
 ```

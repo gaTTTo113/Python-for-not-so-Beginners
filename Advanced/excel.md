@@ -33,7 +33,7 @@ print(cell.value())
 
 ```
 digit = 1
-for row in range(1, 4)
+for row in range(1, 4):
 	sheet.cell(row, 1) = digit
 	digit += 1
 	print(sheet.cell(row, 1).value())

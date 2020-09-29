@@ -16,7 +16,7 @@ print("Hello Python!")
 
 Python is dynamically typed and garbage-collected, variable names are case-sensitive.
 
-There are also names reserved by Python itself and have a special meaning, to see them all type help(‘keywords’).
+There are also names reserved by Python itself and have a special meaning, to see them all type `help(‘keywords’)`.
 
 ### Variable assignment looks like that:
 

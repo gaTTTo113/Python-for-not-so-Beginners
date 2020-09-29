@@ -11,7 +11,7 @@ Run the installer and follow instructions, but be careful: **You want to be sure
 
   
 
-If your version of Windows include a feature called the Windows Subsystem for Linux, which allows you to run a Linux environment directly in Windows, you can install Python 3 from a Bash console window, just as you would if you were running that Linux distribution. [see below](#linux)
+If your version of Windows include a feature called the Windows Subsystem for Linux, which allows you to run a Linux environment directly in Windows, you can install Python 3 from a Bash console window, just as you would if you were running that Linux distribution [see below](#linux).
 
   
 ### macOS:  
